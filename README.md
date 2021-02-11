@@ -1,2 +1,1 @@
-<p align="center">
-	<img width="100" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+![Dyno](https://github.com/CW4RR10R/archives/raw/master/dino.gif)
